@@ -1,0 +1,64 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:58.978166",
+  "default_ports": [
+    80,
+    443,
+    28015
+  ],
+  "dependencies": [
+    "lib32gcc1",
+    "lib32stdc++6"
+  ],
+  "description": "rust-server is a free and open-source Rust game server. Rust survival game dedicated server",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/rust-server",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/rust-server",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.978211",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "rust-server",
+  "repository_url": "https://github.com/howtomgr/rust-server",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "rust-server Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/rust-server"
+}
